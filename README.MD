@@ -38,11 +38,11 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
 
 **Introdução ao Python: Comece a Programar em Apenas 10 Passos** <br>
 **Guia Definitivo para Iniciantes em Python: Primeiros Passos e Dicas Essenciais** <br>
-**Python para Iniciantes: Como Instalar e Configurar Seu Ambiente de Desenvolvimento**
-**Os Fundamentos do Python: Entendendo Sintaxe e Estruturas Básicas**
-**Primeiros Projetos em Python: Criando Seu Primeiro Programa**
-**Aprenda Python Rápido: Os Comandos Básicos que Todo Iniciante Deve Saber**
-**Entendendo Variáveis e Tipos de Dados em Python**
-**Manipulação de Strings em Python: Truques e Técnicas para Iniciantes**
-**Controlando o Fluxo do Programa: Condicionais e Loops em Python**
-**Introdução a Funções em Python: Criando Blocos de Código Reutilizáveis**
+**Python para Iniciantes: Como Instalar e Configurar Seu Ambiente de Desenvolvimento** <br>
+**Os Fundamentos do Python: Entendendo Sintaxe e Estruturas Básicas** <br>
+**Primeiros Projetos em Python: Criando Seu Primeiro Programa** <br>
+**Aprenda Python Rápido: Os Comandos Básicos que Todo Iniciante Deve Saber** <br> 
+**Entendendo Variáveis e Tipos de Dados em Python** <br>
+**Manipulação de Strings em Python: Truques e Técnicas para Iniciantes** <br>
+**Controlando o Fluxo do Programa: Condicionais e Loops em Python** <br>
+**Introdução a Funções em Python: Criando Blocos de Código Reutilizáveis** <br>
