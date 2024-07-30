@@ -36,8 +36,8 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
 
 # Títulos Gerados
 
-** - Introdução ao Python: Comece a Programar em Apenas 10 Passos**
-**- Guia Definitivo para Iniciantes em Python: Primeiros Passos e Dicas Essenciais**
+**Introdução ao Python: Comece a Programar em Apenas 10 Passos** <br>
+**Guia Definitivo para Iniciantes em Python: Primeiros Passos e Dicas Essenciais** <br>
 **Python para Iniciantes: Como Instalar e Configurar Seu Ambiente de Desenvolvimento**
 **Os Fundamentos do Python: Entendendo Sintaxe e Estruturas Básicas**
 **Primeiros Projetos em Python: Criando Seu Primeiro Programa**
