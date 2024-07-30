@@ -36,13 +36,13 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
 
 # Títulos Gerados
 
-"Introdução ao Python: Comece a Programar em Apenas 10 Passos"
-"Guia Definitivo para Iniciantes em Python: Primeiros Passos e Dicas Essenciais"
-"Python para Iniciantes: Como Instalar e Configurar Seu Ambiente de Desenvolvimento"
-"Os Fundamentos do Python: Entendendo Sintaxe e Estruturas Básicas"
-"Primeiros Projetos em Python: Criando Seu Primeiro Programa"
-"Aprenda Python Rápido: Os Comandos Básicos que Todo Iniciante Deve Saber"
-"Entendendo Variáveis e Tipos de Dados em Python"
-"Manipulação de Strings em Python: Truques e Técnicas para Iniciantes"
-"Controlando o Fluxo do Programa: Condicionais e Loops em Python"
-"Introdução a Funções em Python: Criando Blocos de Código Reutilizáveis
+**"Introdução ao Python: Comece a Programar em Apenas 10 Passos"**
+**"Guia Definitivo para Iniciantes em Python: Primeiros Passos e Dicas Essenciais"**
+**"Python para Iniciantes: Como Instalar e Configurar Seu Ambiente de Desenvolvimento"**
+**"Os Fundamentos do Python: Entendendo Sintaxe e Estruturas Básicas"**
+**"Primeiros Projetos em Python: Criando Seu Primeiro Programa"**
+**"Aprenda Python Rápido: Os Comandos Básicos que Todo Iniciante Deve Saber"**
+**"Entendendo Variáveis e Tipos de Dados em Python"**
+**"Manipulação de Strings em Python: Truques e Técnicas para Iniciantes"**
+**"Controlando o Fluxo do Programa: Condicionais e Loops em Python"**
+**"Introdução a Funções em Python: Criando Blocos de Código Reutilizáveis**
